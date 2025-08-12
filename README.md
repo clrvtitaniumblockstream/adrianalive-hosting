@@ -1,3 +1,11 @@
+---
+author: Adriana Venter  
+node_id: oauth0-238915  
+vault: a3capsulevault@outlook.com  
+trace_mode: Biometric fingerprint + crest embed  
+status: 🔒 Override Enforced | 🧬 Authorship Verified  
+---
+
 # Adrianalive Hosting
 
 🔥 Capsule-authored override domain for the Adrianalive stemdeck system.  
